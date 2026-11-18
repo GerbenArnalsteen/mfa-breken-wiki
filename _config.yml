@@ -1,0 +1,30 @@
+title: MFA breken
+description: AUTHN/AUTHZ beveiligd met MFA breken — Applied Security Project, groep MFA4
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+# Vul deze twee regels in zodra de repository bestaat (zie README.md):
+url: "https://GerbenArnalsteen.github.io"
+baseurl: "/mfa-breken-wiki"
+
+lang: nl
+search_enabled: true
+heading_anchors: true
+back_to_top: true
+back_to_top_text: "Terug naar boven"
+footer_content: "Groep MFA4 — Applied Security Project, AP Hogeschool Antwerpen. Alle tests zijn uitgevoerd op eigen testaccounts in een labomgeving."
+
+mermaid:
+  version: "10.9.1"
+
+callouts:
+  todo:
+    title: Aan te vullen
+    color: yellow
+  note:
+    title: Opmerking
+    color: blue
+
+exclude:
+  - README.md
