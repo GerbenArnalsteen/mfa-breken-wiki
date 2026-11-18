@@ -9,6 +9,7 @@ url: "https://GerbenArnalsteen.github.io"
 baseurl: "/mfa-breken-wiki"
 
 lang: nl
+permalink: pretty
 search_enabled: true
 heading_anchors: true
 back_to_top: true
